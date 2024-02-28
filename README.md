@@ -1,0 +1,1 @@
+This folder comprises of two docmuents namely, Assignment 3_healthy_style.twbx and Healthy_Style.xlsx. The first file is the tableau dashboard and the second is the data source which was preprocessed by me to meet the standards of the assignment.
